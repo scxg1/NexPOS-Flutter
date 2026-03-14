@@ -2,21 +2,23 @@
 
 A feature-rich, high-performance offline-first billing and Point of Sale (POS) application built with Flutter. Designed for seamless retail checkout operations featuring barcode scanning, thermal Bluetooth printing, and robust local data persistence.
 
-## 🎬 Demo Video
+## 🎬 Demo Video & 📸 Screenshots
+
+### 🎥 Watch the Demo
 
 https://github.com/scxg1/NexPOS-Flutter-/raw/main/assets/demo.mp4
 
-## 📸 Screenshots
+### 📱 Application Screenshots
 
-| 📊 Dashboard (لوحة المعلومات) | 🏠 Main POS (الرئيسية) |
+| 📊 Dashboard | 🏠 Main POS |
 |:---:|:---:|
 | <img src="screenshots/dashboard.jpg" alt="Dashboard" width="100%"> | <img src="screenshots/main.jpg" alt="Main POS" width="100%"> |
 
-| 📦 Add Products (إضافة منتجات) | 🧾 Billing Info (معلومات الفاتورة) |
+| 📦 Add Products | 🧾 Billing Info |
 |:---:|:---:|
 | <img src="screenshots/add_products.jpg" alt="Add Products" width="100%"> | <img src="screenshots/billing.jpg" alt="Billing Info" width="100%"> |
 
-| ⚙️ Settings (الاعدادات) | |
+| ⚙️ Settings | |
 |:---:|:---:|
 | <img src="screenshots/settings.jpg" alt="Settings" width="100%"> | |
 
